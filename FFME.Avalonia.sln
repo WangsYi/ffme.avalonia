@@ -9,7 +9,12 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "FFME.MediaElement", "FFME.M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FFME.Avalonia", "FFME.Avalonia\FFME.Avalonia.csproj", "{3BF0B6F5-31B4-480A-9A40-F383A36B2656}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFME.Avalonia.Sample", "FFME.Avalonia.Sample\FFME.Avalonia.Sample.csproj", "{E400E3E8-1320-4E5F-B092-E539DC8366EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FFME.Avalonia.Sample", "FFME.Avalonia.Sample\FFME.Avalonia.Sample.csproj", "{E400E3E8-1320-4E5F-B092-E539DC8366EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{E852118E-4290-4195-A913-99D923126DA1}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
