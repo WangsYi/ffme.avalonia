@@ -3,6 +3,7 @@
 ## 说明
 
 一个基于ffmpeg.autogen（https://github.com/Ruslan-B/FFmpeg.AutoGen） 的Avalonia视频播放控件。
+> 参考自 https://github.com/unosquare/ffmediaelement
 
 
 ## 使用
