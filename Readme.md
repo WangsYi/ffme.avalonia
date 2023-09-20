@@ -1,24 +1,25 @@
 # FFME.Avalonia
 
-## ËµÃ÷
+## è¯´æ˜
 
-Ò»¸ö»ùÓÚffmpeg.autogen£¨https://github.com/Ruslan-B/FFmpeg.AutoGen£©µÄAvaloniaÊÓÆµ²¥·Å¿Ø¼ş¡£
+ä¸€ä¸ªåŸºäºffmpeg.autogenï¼ˆhttps://github.com/Ruslan-B/FFmpeg.AutoGenï¼‰ çš„Avaloniaè§†é¢‘æ’­æ”¾æ§ä»¶ã€‚
 
 
-## Ê¹ÓÃ
+## ä½¿ç”¨
 
-1. ´Ó https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full-shared.7z ÏÂÔØffmpeg¿â£¨²âÊÔÊ¹ÓÃµÄ4.4°æ±¾£©£»
-2. ²Î¿¼FFME.Avalonia.Sample£¬ĞŞ¸ÄApp.axaml.csÖĞµÄ¼ÓÔØÂ·¾¶£»
-3. ÔËĞĞFFME.Avalonia.SampleÏîÄ¿£¬µã»÷´ò¿ªÊÓÆµ£¬¼´¿É¿´µ½Ğ§¹û¡£
+1. ä» https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full-shared.7z ä¸‹è½½ffmpegåº“ï¼ˆæµ‹è¯•ä½¿ç”¨çš„4.4ç‰ˆæœ¬ï¼‰ï¼›
+2. å‚è€ƒFFME.Avalonia.Sampleï¼Œä¿®æ”¹App.axaml.csä¸­çš„åŠ è½½è·¯å¾„ï¼›
+3. è¿è¡ŒFFME.Avalonia.Sampleé¡¹ç›®ï¼Œç‚¹å‡»æ‰“å¼€è§†é¢‘ï¼Œå³å¯çœ‹åˆ°æ•ˆæœã€‚
 
 
 
 ## TODO
 
-- [x] ²âÊÔwindows£»
-- [ ] ²âÊÔlinux£»
-- [ ] ²âÊÔmacOS£»
-- [ ] Íê³É×ÖÄ»Ö§³Ö²âÊÔ£»
-- [ ] ÍêÉÆSampleÏîÄ¿£»
-- [ ] ÍêÉÆÎÄµµ£»
-- [ ] Ó¢ÎÄÎÄµµ¡£
+- [x] æµ‹è¯•windowsï¼›
+- [ ] æ‰“åŒ…nugetï¼›
+- [ ] æµ‹è¯•linuxï¼›
+- [ ] æµ‹è¯•macOSï¼›
+- [ ] å®Œæˆå­—å¹•æ”¯æŒæµ‹è¯•ï¼›
+- [ ] å®Œå–„Sampleé¡¹ç›®ï¼›
+- [ ] å®Œå–„æ–‡æ¡£ï¼›
+- [ ] è‹±æ–‡æ–‡æ¡£ã€‚
