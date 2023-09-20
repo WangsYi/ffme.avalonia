@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "FFME", "FFME\FFME.shproj", "{BD805D77-C211-442B-9FAF-6096030D0D78}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "FFME.MediaElement", "FFME.MediaElement\FFME.MediaElement.shproj", "{64A74006-9E42-438B-9A15-07250FAD6E58}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FFME.Avalonia", "FFME.Avalonia\FFME.Avalonia.csproj", "{3BF0B6F5-31B4-480A-9A40-F383A36B2656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFME.Avalonia.Sample", "FFME.Avalonia.Sample\FFME.Avalonia.Sample.csproj", "{E400E3E8-1320-4E5F-B092-E539DC8366EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BF0B6F5-31B4-480A-9A40-F383A36B2656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF0B6F5-31B4-480A-9A40-F383A36B2656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF0B6F5-31B4-480A-9A40-F383A36B2656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF0B6F5-31B4-480A-9A40-F383A36B2656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E400E3E8-1320-4E5F-B092-E539DC8366EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E400E3E8-1320-4E5F-B092-E539DC8366EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E400E3E8-1320-4E5F-B092-E539DC8366EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E400E3E8-1320-4E5F-B092-E539DC8366EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C8B9513-CDFF-4105-AB9F-E25CF3049F0D}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		FFME.MediaElement\FFME.MediaElement.projitems*{3bf0b6f5-31b4-480a-9a40-f383a36b2656}*SharedItemsImports = 5
+		FFME\FFME.projitems*{3bf0b6f5-31b4-480a-9a40-f383a36b2656}*SharedItemsImports = 5
+		FFME.MediaElement\FFME.MediaElement.projitems*{64a74006-9e42-438b-9a15-07250fad6e58}*SharedItemsImports = 13
+		FFME\FFME.projitems*{bd805d77-c211-442b-9faf-6096030d0d78}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
