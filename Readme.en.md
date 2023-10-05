@@ -1,4 +1,4 @@
-<p align="center"><a href="Readme.md">ÖÐÎÄ</a> | English</p>
+<p align="center"><a href="Readme.md">ä¸­æ–‡</a> | English</p>
 
 # FFME.Avalonia
 
