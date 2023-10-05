@@ -4,7 +4,8 @@
 
 ## 说明
 
-一个基于ffmpeg.autogen（https://github.com/Ruslan-B/FFmpeg.AutoGen）的Avalonia视频播放控件。
+一个基于[ffmpeg.autogen](https://github.com/Ruslan-B/FFmpeg.AutoGen)的Avalonia视频播放控件。
+> 感谢 [unosquare/ffmediaelement](https://github.com/unosquare/ffmediaelement)
 
 
 ## 使用

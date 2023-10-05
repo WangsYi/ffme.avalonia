@@ -4,7 +4,8 @@
 
 ## Description
 
-A video playback control for Avalonia based on ffmpeg.autogen (https://github.com/Ruslan-B/FFmpeg.AutoGen).
+A video playback control for Avalonia based on [ffmpeg.autogen](https://github.com/Ruslan-B/FFmpeg.AutoGen).
+> Thanks to [unosquare/ffmediaelement](https://github.com/unosquare/ffmediaelement)
 
 ## Usage
 
