@@ -1,3 +1,5 @@
+<p align="center">中文 | <a href="README.en.md">English</a></p>
+
 # FFME.Avalonia
 
 ## 说明
@@ -39,4 +41,4 @@
 - [ ] 完成字幕支持测试；
 - [ ] 完善Sample项目；
 - [ ] 完善文档；
-- [ ] 英文文档。
+- [x] 英文文档。
