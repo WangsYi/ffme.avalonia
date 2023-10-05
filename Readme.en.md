@@ -1,4 +1,4 @@
-<p align="center"><a href="README.md">中文</a> | English</p>
+<p align="center"><a href="Readme.md">中文</a> | English</p>
 
 # FFME.Avalonia
 
