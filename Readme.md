@@ -15,7 +15,7 @@
 #### Windows
 
 从以下地址下载，或手动编译，需要选择4.4版本。
-`https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full-shared.7z`
+`https://github.com/GyanD/codexffmpeg/releases/download/4.4/ffmpeg-4.4-full_build-shared.zip`
 
 #### Linux
 
