@@ -14,7 +14,7 @@ A video playback control for Avalonia based on [ffmpeg.autogen](https://github.c
 #### Windows
 
 Download from the following link or compile manually, make sure to choose version 4.4.
-`https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full-shared.7z`
+`https://github.com/GyanD/codexffmpeg/releases/download/4.4/ffmpeg-4.4-full_build-shared.zip`
 
 #### Linux
 
